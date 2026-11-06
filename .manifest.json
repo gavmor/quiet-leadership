@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "stats": {
+    "total_sources_ingested": 1,
+    "total_pages": 35
+  },
+  "sources": {
+    "/home/user/Downloads/David Rock - Quiet Leadership(epub).epub": {
+      "ingested_at": "2026-11-06T18:00:32Z",
+      "size_bytes": 3897458,
+      "modified_at": 1762456232,
+      "content_hash": "8b1489d81a194186517da40fbcf274f9148ac4be880b28e5cf117a46a41ceb29",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/brain-connection-machine.md",
+        "concepts/brain-individuality.md",
+        "concepts/hard-wiring.md",
+        "concepts/automatic-perception.md",
+        "concepts/deconstructing-wiring.md",
+        "concepts/creating-new-wiring.md",
+        "concepts/neuroscience-foundations.md",
+        "concepts/quiet-leadership.md",
+        "concepts/step-1-think-about-thinking.md",
+        "concepts/step-2-listen-for-potential.md",
+        "concepts/speak-with-intent.md",
+        "concepts/dance-toward-insight.md",
+        "concepts/create-model.md",
+        "concepts/create-new-thinking.md",
+        "concepts/feeling-model.md",
+        "concepts/follow-up-feeling.md",
+        "concepts/working-memory.md",
+        "concepts/brain-plasticity.md",
+        "entities/david-rock.md",
+        "references/quiet-leadership.md",
+        "skills/let-them-do-all-the-thinking.md",
+        "skills/focus-on-solutions.md",
+        "skills/remember-to-stretch.md",
+        "skills/accentuate-the-positive.md",
+        "skills/put-process-before-content.md",
+        "skills/succinct-specific-generous.md",
+        "skills/permission-and-placement.md",
+        "skills/listen-for-potential.md",
+        "skills/six-steps-problem-solving.md",
+        "skills/six-steps-decision-making.md",
+        "skills/six-steps-feedback.md",
+        "skills/six-steps-teams.md",
+        "skills/six-steps-children.md",
+        "skills/six-steps-organizations.md",
+        "skills/follow-up.md"
+      ],
+      "pages_updated": []
+    }
+  }
+}
