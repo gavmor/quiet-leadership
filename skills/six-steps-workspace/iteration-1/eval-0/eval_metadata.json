@@ -1,0 +1,19 @@
+{
+  "eval_id": 0,
+  "eval_name": "job-offer-decision",
+  "prompt": "I'm torn between two job offers. One pays more but has longer hours, the other has less money but better work-life balance.",
+  "assertions": [
+    {
+      "name": "asks_one_question_at_a_time",
+      "text": "The model asks one question at a time, waits for the user's response"
+    },
+    {
+      "name": "helps_think_for_themselves",
+      "text": "The model helps the user think through the decision themselves rather than giving direct advice"
+    },
+    {
+      "name": "adapts_to_situation",
+      "text": "The model adapts the framework to the decision-making situation (not all 6 steps forced)"
+    }
+  ]
+}
